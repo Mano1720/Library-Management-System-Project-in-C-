@@ -49,10 +49,10 @@ As we are using the file handling methods in this project, Every time new file i
 
 4. Issue Book:
 Due to this option The 70% of the work is been reduced. In this option Librarian can do the following operations:
+
           -> Issue a Book.
           
           -> View Issued Books.
-          
           
           -> He can also search the students who issued the books.
           
@@ -60,9 +60,12 @@ Due to this option The 70% of the work is been reduced. In this option Librarian
           
           -> Return the Book.
           
+       
+          
           
           
 Steps to Run the Project:
+
 -> Use dev C++ or Tubro C for typing the code.
 
 -> now Save the Project.
