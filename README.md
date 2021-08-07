@@ -6,12 +6,19 @@ The Library Management System is a software which handles the entire data of lib
  
 Features of Library Management System Project in C++:
 > We have created separate logins for students and the librarian, in which the librarian is password protected.
+
 > In this project, the librarian can add, update, delete and create books and can also assign the books to the students.
+
 > The students can also view the list of the books available in the entire library database.
+
 > The entire rights are given to the librarian to adding books, issuing books, and modify the book.
+
 > This project uses file handling to store the data of books in a project.
+
 > A Librarian can also be able to change the password.
+
 > Reissuing and returning the books are the main features of this project.
+
 > The student can also be able to see which student has already borrowed the book.
 
 
@@ -43,18 +50,29 @@ As we are using the file handling methods in this project, Every time new file i
 4. Issue Book:
 Due to this option The 70% of the work is been reduced. In this option Librarian can do the following operations:
           -> Issue a Book.
+          
           -> View Issued Books.
+          
+          
           -> He can also search the students who issued the books.
+          
           -> Librarian can also reissue the book to the same student.
+          
           -> Return the Book.
+          
           
           
 Steps to Run the Project:
 -> Use dev C++ or Tubro C for typing the code.
+
 -> now Save the Project.
+
 -> Compile the project using compile option.
+
 -> There is no error in the source code, if found then correct it.
+
 -> Now run the project.
+
 
 Summary:
 > In this way, we’ve created and executed the Library Management System Project in C++.-> 
