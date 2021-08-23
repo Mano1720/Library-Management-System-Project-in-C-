@@ -66,16 +66,16 @@ Due to this option The 70% of the work is been reduced. In this option Librarian
           
 Steps to Run the Project:
 
--> Use dev C++ or Tubro C for typing the code.
+    -> Use dev C++ or Tubro C for typing the code.
 
--> now Save the Project.
+    -> now Save the Project.
 
--> Compile the project using compile option.
+    -> Compile the project using compile option.
 
--> There is no error in the source code, if found then correct it.
+    -> There is no error in the source code, if found then correct it.
 
--> Now run the project.
+    -> Now run the project.
 
 
 Summary:
-> In this way, we’ve created and executed the Library Management System Project in C++.-> 
+     > In this way, we’ve created and executed the Library Management System Project in C++.
